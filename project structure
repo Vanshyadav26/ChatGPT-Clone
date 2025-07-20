@@ -1,0 +1,8 @@
+chatgpt_clone/
+├── app.py
+├── requirements.txt
+├── .env
+├── templates/
+│   └── index.html
+└── static/
+    └── app.js
