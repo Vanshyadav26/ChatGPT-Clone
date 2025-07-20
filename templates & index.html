@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ChatGPT Clone</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body class="bg-gray-100 h-screen flex flex-col">
+  <div id="chat" class="flex-1 p-4 overflow-y-auto space-y-2"></div>
+  <form id="chat-form" class="flex p-4 bg-white">
+    <input id="message" class="flex-1 border rounded p-2" placeholder="Type your message" autocomplete="off">
+    <button class="ml-2 px-4 py-2 rounded bg-blue-500 text-white">Send</button>
+  </form>
+</body>
+</html>
