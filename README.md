@@ -1,10 +1,10 @@
 # ChatGPT-Clone
 
-🧠 ChatGPT Clone – Flask + MongoDB
+ChatGPT Clone – Flask + MongoDB
 
 This project is a lightweight ChatGPT-style conversational web app built with Flask (Python), a simple HTML/Tailwind frontend, and MongoDB for storing chat history. It uses the OpenAI Chat Completion API to generate responses.
 
-🚀 Features
+1) Features
 
 Chat interface powered by OpenAI's GPT model
 
@@ -18,7 +18,7 @@ Flask backend with REST API
 
 Easily extensible for authentication, multiple users, or UI enhancements
 
-🗂 Tech Stack
+2) Tech Stack
 
 Backend: Flask, Python, OpenAI API, PyMongo
 
@@ -26,7 +26,7 @@ Frontend: HTML, Tailwind CSS, JavaScript
 
 Database: MongoDB (local or cloud via MongoDB Atlas)
 
-⚙️ How It Works
+3) How It Works
 
 A user sends a message via the frontend form.
 
